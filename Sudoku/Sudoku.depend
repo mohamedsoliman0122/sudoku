@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663010329 source:d:\c\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
